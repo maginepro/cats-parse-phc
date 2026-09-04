@@ -3,7 +3,7 @@ val catsVersion = "2.13.0"
 val literallyVersion = "1.2.0"
 val munitScalaCheckVersion = "1.3.0"
 val scala213Version = "2.13.18"
-val scala3Version = "3.3.8"
+val scala3Version = "3.9.0"
 val scodecBitsVersion = "1.2.5"
 
 inThisBuild(
